@@ -1,0 +1,32 @@
+C:\Users\PC\source\repos\TelefonRehberr\TelefonRehberr\bin\Debug\TelefonRehberr.exe.config
+C:\Users\PC\source\repos\TelefonRehberr\TelefonRehberr\bin\Debug\TelefonRehberr.exe
+C:\Users\PC\source\repos\TelefonRehberr\TelefonRehberr\bin\Debug\TelefonRehberr.pdb
+C:\Users\PC\source\repos\TelefonRehberr\TelefonRehberr\obj\Debug\TelefonRehberr.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\TelefonRehberr\TelefonRehberr\obj\Debug\TelefonRehberr.Rehber.resources
+C:\Users\PC\source\repos\TelefonRehberr\TelefonRehberr\obj\Debug\TelefonRehberr.Properties.Resources.resources
+C:\Users\PC\source\repos\TelefonRehberr\TelefonRehberr\obj\Debug\TelefonRehberr.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\TelefonRehberr\TelefonRehberr\obj\Debug\TelefonRehberr.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TelefonRehberr\TelefonRehberr\obj\Debug\TelefonRehberr.exe
+C:\Users\PC\source\repos\TelefonRehberr\TelefonRehberr\obj\Debug\TelefonRehberr.pdb
+C:\Users\PC\OneDrive\Masaüstü\TelefonRehber\TelefonRehberr\bin\Debug\TelefonRehberr.exe.config
+C:\Users\PC\OneDrive\Masaüstü\TelefonRehber\TelefonRehberr\bin\Debug\TelefonRehberr.exe
+C:\Users\PC\OneDrive\Masaüstü\TelefonRehber\TelefonRehberr\bin\Debug\TelefonRehberr.pdb
+C:\Users\PC\OneDrive\Masaüstü\TelefonRehber\TelefonRehberr\obj\Debug\TelefonRehberr.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\TelefonRehber\TelefonRehberr\obj\Debug\TelefonRehberr.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Masaüstü\TelefonRehber\TelefonRehberr\obj\Debug\TelefonRehberr.Rehber.resources
+C:\Users\PC\OneDrive\Masaüstü\TelefonRehber\TelefonRehberr\obj\Debug\TelefonRehberr.Properties.Resources.resources
+C:\Users\PC\OneDrive\Masaüstü\TelefonRehber\TelefonRehberr\obj\Debug\TelefonRehberr.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Masaüstü\TelefonRehber\TelefonRehberr\obj\Debug\TelefonRehberr.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\TelefonRehber\TelefonRehberr\obj\Debug\TelefonRehberr.exe
+C:\Users\PC\OneDrive\Masaüstü\TelefonRehber\TelefonRehberr\obj\Debug\TelefonRehberr.pdb
+C:\Users\PC\Desktop\C# Projelerim\TelefonRehber\TelefonRehberr\bin\Debug\TelefonRehberr.exe.config
+C:\Users\PC\Desktop\C# Projelerim\TelefonRehber\TelefonRehberr\bin\Debug\TelefonRehberr.exe
+C:\Users\PC\Desktop\C# Projelerim\TelefonRehber\TelefonRehberr\bin\Debug\TelefonRehberr.pdb
+C:\Users\PC\Desktop\C# Projelerim\TelefonRehber\TelefonRehberr\obj\Debug\TelefonRehberr.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C# Projelerim\TelefonRehber\TelefonRehberr\obj\Debug\TelefonRehberr.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\C# Projelerim\TelefonRehber\TelefonRehberr\obj\Debug\TelefonRehberr.Rehber.resources
+C:\Users\PC\Desktop\C# Projelerim\TelefonRehber\TelefonRehberr\obj\Debug\TelefonRehberr.Properties.Resources.resources
+C:\Users\PC\Desktop\C# Projelerim\TelefonRehber\TelefonRehberr\obj\Debug\TelefonRehberr.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C# Projelerim\TelefonRehber\TelefonRehberr\obj\Debug\TelefonRehberr.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# Projelerim\TelefonRehber\TelefonRehberr\obj\Debug\TelefonRehberr.exe
+C:\Users\PC\Desktop\C# Projelerim\TelefonRehber\TelefonRehberr\obj\Debug\TelefonRehberr.pdb
